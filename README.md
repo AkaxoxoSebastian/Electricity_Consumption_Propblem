@@ -10,4 +10,4 @@ This code takes customer name,previous and current meter reading of a
         3. Total amount to be paid,with an additional 2% charge
         
         
-  NB: Proplem statement of this coed is included.
+  NB: Proplem statement of this code is included.
