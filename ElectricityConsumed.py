@@ -2,7 +2,7 @@
 """
 Created on Tue Feb  8 15:34:24 2022
 
-@author: Akaxoxo Sebsatian
+@author: Seb
 
         What the code does?
     This code takes customer name,previous and current meter reading of a 
